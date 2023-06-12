@@ -1,1 +1,1 @@
-This is a vagrant repository
+This is vagrant reposetory
